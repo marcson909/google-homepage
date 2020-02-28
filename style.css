@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex; 
+    flex-direction: column;
+    height: 100vh;
+}
+
+body, a, p {
+    font-family: Arial, sans-serif;
+}
+
+a {
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+}
